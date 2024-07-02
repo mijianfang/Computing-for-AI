@@ -1,5 +1,8 @@
-# Computing for AI: A Practicum AI Course
+# My Amazing Thoughts and Resources on Artificial Intelligence.
+## Things I want to do with AI
 
+          * Have fun
+          * Take over the world
 ![Practicum AI Logo image](https://github.com/PracticumAI/practicumai.github.io/blob/main/images/logo/PracticumAI_logo_500x100.png?raw=true) <img src='https://raw.githubusercontent.com/PracticumAI/practicumai.github.io/main/images/icons/practicumai_computing_for_ai.png' align='right' width=100>
 
 Welcome to the Practicum AI: Computing for AI Course! This course is the second in the Practicum AI series. This course can also be taken on its own to familiarize yourself with some important tools used in computational science applications.  
